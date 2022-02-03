@@ -1,4 +1,4 @@
-# LearningBehaviorTrees
+# Learning Behavior Trees
 
 Repositories:
 * [behavior_tree_learning ](https://github.com/dgerod/behavior_tree_learning)
